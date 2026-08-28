@@ -280,6 +280,18 @@
       "homepage": "https://browser-use.com",
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
+    },
+    {
+      "name": "sprint-lessons-learned",
+      "description": "Agile sprint-close Lessons Learned ritual for Grok Build, plus a CLI architecture skill that records the --sandbox profile lookup gap.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JLJeansonne318/sprint-lessons-learned.git",
+        "sha": "bc86c0f2bd8e40a7ef06907b6b48b2c955096726"
+      },
+      "homepage": "https://github.com/JLJeansonne318/sprint-lessons-learned",
+      "keywords": ["sprint-lessons-learned", "sprint close", "lessons learned ritual"]
     }
   ]
 }
